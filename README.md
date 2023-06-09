@@ -32,5 +32,7 @@ Error Handling:
 Copilot can provide suggestions for catching and handling various exceptions, such as network errors (requests.exceptions.RequestException), missing data fields (KeyError), and parsing errors (json.JSONDecodeError).
 
 ## OUTPUT
-<img width="850" alt="image" src="https://github.com/Venkat-polagani7/Weather-Forecasting-Tool/assets/103422239/1f570ab9-80e0-4f65-85fe-34e729885103">
+<img width="346" alt="image" src="https://github.com/Venkat-polagani7/Weather-Forecasting-Tool/assets/103422239/ef6d6a71-47a0-43b9-85fe-9ea95bd8c8c4">
+<img width="352" alt="image" src="https://github.com/Venkat-polagani7/Weather-Forecasting-Tool/assets/103422239/6e661ad5-0317-46a5-99b6-76cdf88cf23b">
+
 
