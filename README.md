@@ -22,11 +22,11 @@ The tool will send a request to the OpenWeatherMap API and display the current w
 ## How GitHub Copilot Assists
 GitHub Copilot can provide suggestions and assistance in the following areas of the code:
 
-# API Usage: 
+API Usage: 
 GitHub Copilot can suggest code snippets for making HTTP requests to the OpenWeatherMap API, including handling query parameters and API keys.
 
-# Data Parsing: 
+Data Parsing: 
 Copilot can help with parsing the JSON response from the API, suggesting code for accessing nested data fields and handling missing or unexpected fields.
 
-# Error Handling: 
+Error Handling: 
 Copilot can provide suggestions for catching and handling various exceptions, such as network errors (requests.exceptions.RequestException), missing data fields (KeyError), and parsing errors (json.JSONDecodeError).
