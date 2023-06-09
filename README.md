@@ -30,3 +30,7 @@ Copilot can help with parsing the JSON response from the API, suggesting code fo
 
 Error Handling: 
 Copilot can provide suggestions for catching and handling various exceptions, such as network errors (requests.exceptions.RequestException), missing data fields (KeyError), and parsing errors (json.JSONDecodeError).
+
+## OUTPUT
+<img width="850" alt="image" src="https://github.com/Venkat-polagani7/Weather-Forecasting-Tool/assets/103422239/1f570ab9-80e0-4f65-85fe-34e729885103">
+
